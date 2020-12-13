@@ -1,7 +1,7 @@
 # ML_project
 This is a group project for Machine Learning class.
-Group Member: Liumei Ma, Ziqi Chen.
+Group Member: Ziqi Chen(zc1690), Liumei Ma(lm4180).
 
-The topic is identify several kind of instruments by using machine learning methoc.
+The topic is identify several kind of instruments by using machine learning method.
 We are still trying on different models to reach the best performance.
 Currently we can achieve correctness in about 80%.
